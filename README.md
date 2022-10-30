@@ -1,4 +1,4 @@
-Part of my ongoing collaboration as a Research Assistant with Ph.D. Candidate Cameron Bale, Drexel University
+Part of my ongoing collaboration as a Research Assistant with Ph.D. Candidate [Cameron Bale](https://github.com/cdbale), Drexel University
 
 Generating synthetic time-series data for Walmart's store sales, downloaded from [Kaggle's M5 Forecasting Competition](https://www.kaggle.com/competitions/m5-forecasting-accuracy/data?select=sales_train_validation.csv). 
 
